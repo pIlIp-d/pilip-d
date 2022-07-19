@@ -6,7 +6,7 @@
 
 **I'm 19 years old and here you can see some of my stuff**
 - 🔭 I’m currently working on a webbased feedbacksystem and a homemonitoring dashboard
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently studying Computer Science
 - 🇩🇪🇬🇧 nationality
 - 💬 Ask me about php, python, music or magic
 - 📫 How to reach me: philipdell@gmx.de
